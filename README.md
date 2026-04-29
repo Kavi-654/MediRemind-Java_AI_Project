@@ -384,7 +384,7 @@ Most medicines are prescribed to be taken with or after food. 15 minutes gives t
 **Your Name**
 - LinkedIn: [linkedin.com/in/kavinayasri-m](https://linkedin.com)
 - GitHub: [github.com/Kavi-654](https://github.com)
-- Email: your@email.com
+
 
 ---
 
